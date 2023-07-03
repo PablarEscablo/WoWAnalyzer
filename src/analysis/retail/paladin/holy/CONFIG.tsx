@@ -46,7 +46,7 @@ const config: Config = {
     </>
   ),
   exampleReport:
-    '/report/mWxqCgyDB7atVrd1/4-Mythic+Skolex,+the+Insatiable+Ravener+-+Kill+(4:30)/Claríus/standard',
+    '/report/8MtC6AGvRxBNdF2Y/1-Mythic+Scalecommander+Sarkareth+-+Kill+(7:33)/小锦/standard',
 
   //
   spec: SPECS.HOLY_PALADIN,
